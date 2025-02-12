@@ -17,6 +17,8 @@ do
     int correctPositions = 0;
     int correctLetters = 0;
     Console.WriteLine($"Guess #{guessNum}: Please guess a sequence of 4 lowercase letters with no repeats.");
+    guess = Console.ReadLine();
+    guess = guess.ToLower();
 
     if (guess.Length > secret.Length)
     {
