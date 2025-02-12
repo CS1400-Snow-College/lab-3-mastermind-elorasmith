@@ -1,0 +1,15 @@
+C:\Users\14358\OneDrive\Desktop\code\my-code-dir\lab-3-mastermind-elorasmith\bin\Debug\net8.0\lab-3-mastermind-elorasmith.exe
+C:\Users\14358\OneDrive\Desktop\code\my-code-dir\lab-3-mastermind-elorasmith\bin\Debug\net8.0\lab-3-mastermind-elorasmith.deps.json
+C:\Users\14358\OneDrive\Desktop\code\my-code-dir\lab-3-mastermind-elorasmith\bin\Debug\net8.0\lab-3-mastermind-elorasmith.runtimeconfig.json
+C:\Users\14358\OneDrive\Desktop\code\my-code-dir\lab-3-mastermind-elorasmith\bin\Debug\net8.0\lab-3-mastermind-elorasmith.dll
+C:\Users\14358\OneDrive\Desktop\code\my-code-dir\lab-3-mastermind-elorasmith\bin\Debug\net8.0\lab-3-mastermind-elorasmith.pdb
+C:\Users\14358\OneDrive\Desktop\code\my-code-dir\lab-3-mastermind-elorasmith\obj\Debug\net8.0\lab-3-mastermind-elorasmith.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\14358\OneDrive\Desktop\code\my-code-dir\lab-3-mastermind-elorasmith\obj\Debug\net8.0\lab-3-mastermind-elorasmith.AssemblyInfoInputs.cache
+C:\Users\14358\OneDrive\Desktop\code\my-code-dir\lab-3-mastermind-elorasmith\obj\Debug\net8.0\lab-3-mastermind-elorasmith.AssemblyInfo.cs
+C:\Users\14358\OneDrive\Desktop\code\my-code-dir\lab-3-mastermind-elorasmith\obj\Debug\net8.0\lab-3-mastermind-elorasmith.csproj.CoreCompileInputs.cache
+C:\Users\14358\OneDrive\Desktop\code\my-code-dir\lab-3-mastermind-elorasmith\obj\Debug\net8.0\lab-3-mastermind-elorasmith.sourcelink.json
+C:\Users\14358\OneDrive\Desktop\code\my-code-dir\lab-3-mastermind-elorasmith\obj\Debug\net8.0\lab-3-mastermind-elorasmith.dll
+C:\Users\14358\OneDrive\Desktop\code\my-code-dir\lab-3-mastermind-elorasmith\obj\Debug\net8.0\refint\lab-3-mastermind-elorasmith.dll
+C:\Users\14358\OneDrive\Desktop\code\my-code-dir\lab-3-mastermind-elorasmith\obj\Debug\net8.0\lab-3-mastermind-elorasmith.pdb
+C:\Users\14358\OneDrive\Desktop\code\my-code-dir\lab-3-mastermind-elorasmith\obj\Debug\net8.0\lab-3-mastermind-elorasmith.genruntimeconfig.cache
+C:\Users\14358\OneDrive\Desktop\code\my-code-dir\lab-3-mastermind-elorasmith\obj\Debug\net8.0\ref\lab-3-mastermind-elorasmith.dll
