@@ -8,7 +8,7 @@ using System.Runtime.Intrinsics.Arm;
 Console.WriteLine("Welcome!");
 Console.WriteLine("I have chosen 4 letters between \"a\" and \"g\" and arranged them in a particular order. \nYour job is to guess the letters and put them in the right order.");
 string secret = "aefb";
-string guess = "aaaa";
+string? guess = "aaaa";
 int guessNum = 1;
 
 
@@ -16,8 +16,14 @@ do
 {
     int correctPositions = 0;
     int correctLetters = 0;
-    Console.WriteLine($"Guess {guessNum}: Please guess a sequence of 4 lowercase letters with no repeats.");
-    guess = Console.ReadLine();
+    Console.WriteLine($"Guess #{guessNum}: Please guess a sequence of 4 lowercase letters with no repeats.");
+
+    if (guess.Length > secret.Length)
+    {
+        Console.WriteLine("Please only enter 4 letters. Try again!");
+        continue;
+    }
+
     guessNum ++;
     for (int i = 0; i < secret.Length; i++)
         if (guess[i] == secret[i])
