@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lab-3-mastermind-elorasmith")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3982745a31dc0d60452bcaec483c83da22a4c314")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+923beef7c2f7249013f2c9c5481b755fbc8dc7e8")]
 [assembly: System.Reflection.AssemblyProductAttribute("lab-3-mastermind-elorasmith")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lab-3-mastermind-elorasmith")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
